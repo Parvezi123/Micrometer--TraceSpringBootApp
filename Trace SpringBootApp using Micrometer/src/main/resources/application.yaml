@@ -1,0 +1,7 @@
+# Trace every action
+management:
+  tracing:
+    sampling:
+      probability: 1.0
+server:
+  port: 9097
